@@ -1,0 +1,16 @@
+{
+    "name": "qwer/fghj",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Qwer\\Fghj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Даша",
+            "email": "dashylyaiv@icloud.com"
+        }
+    ],
+    "require": {}
+}
